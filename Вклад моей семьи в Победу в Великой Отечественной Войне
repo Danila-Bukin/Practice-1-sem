@@ -1,0 +1,70 @@
+<button type="button" class="card-header btn-block btn-link" id="bukin" data-toggle="collapse" data-target="#bukin" aria-expanded="false" aria-controls="bukin">
+	<h5>Букин Данила Юрьевич</h5>
+</button>
+
+<div id="bukin" class="collapse" aria-labelledby="bukin" data-parent="#accordion">
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-5">
+				<center><img src="https://sun9-53.userapi.com/c858432/v858432355/17d941/a2bSQ9v6rik.jpg" style="width: 70%"></center>
+				<br>
+            </div>
+
+
+            <div class="col-md-7">
+            	<h4>Букин Пётр Михайлович</h4>
+
+            	<p> 
+                  Букин Пётр Михайлович (род. 10 октября 1917) был отправлен на срочную службу в 1939 на 3 года. 
+                  <br>
+Прошёл первоначальную подготовку в учебной части в Краснодаре, затем был направлен в Прибалтику, в город Лиепая, где проходил службу в лётных частях.
+                  <br>
+Участвовал в 2 знаменательных битвах – Курская дуга и Берлинская операция.
+                  <br>
+Когда дошёл до Берлина, расписался на Рейхстаге.
+                  <br>
+Было 3 ранения.
+                  <br>
+Награждён медалью за боевые заслуги, орденом ВОВ 2 степени.
+                  <br>
+Старшина по званию.
+                  <br>
+                  Документ о награждении и боевой путь можно посмотреть на <a href="https://pamyat-naroda.ru/heroes/podvig-chelovek_nagrazhdenie40079865/">этой</a> странице.
+              </p>
+            </div>
+        </div>
+      
+      <div class="row">
+			<div class="col-md-5">
+				<center><img src="https://sun9-36.userapi.com/c858432/v858432355/17d949/aqc8mNe0dRc.jpg" style="width: 70%"></center>
+				<br>
+            </div>
+
+
+            <div class="col-md-7">
+            	<h4>Давыдов Георгий Митрофанович</h4>
+
+            	<p> 
+                  Давыдов Георгий Митрофанович (род. 10 февраля 1925) в 1943 году пошёл на фронт, получил ранение в плечо, в кисть и в ногу, всего был на фронте 3 месяца, участвовал в обороне Северного Кавказа, далее стал связистом. Получил медаль за боевые заслуги и медаль за отвагу.
+              </p>
+            </div>
+        </div>
+      
+      <div class="row">
+			<div class="col-md-5">
+				<center><img src="https://sun9-28.userapi.com/c858432/v858432355/17d950/75yBSbNPMmg.jpg" style="width: 70%"></center>
+				<br>
+            </div>
+
+
+            <div class="col-md-7">
+            	<h4>Съедин Владимир Андреевич</h4>
+
+            	<p> 
+                  Съедин Владимир Андреевич (1927) – сын полка, сбежал на фронт, участвовал в боевых действиях при обороне Сталинграда, получил медаль за боевые заслуги и медаль за отвагу.
+              </p>
+            </div>
+        </div>
+      
+  </div>
+</div>
